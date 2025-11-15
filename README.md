@@ -8,6 +8,7 @@ professional content and uses python‑pptx to produce a ready‑to‑present
 PowerPoint file.
 
 
+
 ## Features
 
 - **Market analysis** – Generates a concise report covering demand,
