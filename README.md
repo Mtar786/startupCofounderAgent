@@ -1,5 +1,6 @@
 # Startup Co‑Founder Agent
 
+
 **Transform a raw business idea into actionable artefacts.**  
 This tool is designed for entrepreneurs and innovators who need a quick
 overview of their market, a polished landing page, sensible pricing tiers
